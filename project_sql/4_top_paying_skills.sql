@@ -23,7 +23,7 @@ ORDER BY
 LIMIT 25
 
 /*
-Here's a breakdown of the results for top paying skills for Data Analysts in California in 2023:
+Here's a breakdown of the results for top paying skills based on salaries for Data Analysts in California in 2023:
 Big data & programming (Spark, Scala, SAS) drive the highest salaries.
 BI & data visualization tools (Power BI, Tableau) are well-paid but slightly lower.
 SQL & Python remain fundamental, but their salaries are mid-range.

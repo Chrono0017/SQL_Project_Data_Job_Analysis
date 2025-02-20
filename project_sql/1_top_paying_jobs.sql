@@ -1,8 +1,9 @@
 /*
-Question: What are the top-paying data analyst jobs?
+Question: What are the top-paying data analyst jobs in California?
 -- Identify the top 10 highest-paying Data Analyst roles that are available in California.
 -- Focuses on job postings with specified salaries (remove nulls).
--- Why? Highlight the top-paying opportunities for Data Analysts, offering insights into employment opportunities.
+-- Why? Highlight the top-paying opportunities for Data Analysts, offering insights into employment opportunities
+   for those who prefer to work in the office.
 */
 
 SELECT
